@@ -25,12 +25,8 @@ const oloquinho = () => {
 }
 
 // TODO: when tail call optimization is implemented on NodeJS, simplify this.
-const globalMode = async () => {
-  while(true)
-    await oloquinho()
-}
 
 module.exports = oloquinho
 
 if(!module.parent)
-    globalMode()
+  oloquinho()
