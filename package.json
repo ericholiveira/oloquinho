@@ -1,6 +1,6 @@
 {
   "name": "oloquinho_install",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "Oloquinho meu",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/luanorlandi/oloquinho.git"
+    "url": "git+ssh://git@github.com/ericholiveira/oloquinho.git"
   },
   "author": "Luan Orlandi <luanorlandi@gmail.com>",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "oloquinho": "./index.js"
   },
   "bugs": {
-    "url": "https://github.com/luanorlandi/oloquinho/issues"
+    "url": "https://github.com/ericholiveira/oloquinho/issues"
   },
-  "homepage": "https://github.com/luanorlandi/oloquinho#readme"
+  "homepage": "https://github.com/ericholiveira/oloquinho#readme"
 }
